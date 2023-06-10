@@ -10,7 +10,7 @@ const extendHex = (shortHex) => {
 			}
 		}
 	}
-	return s;
+	return '#' + s;
 };
 
 // Do not change the code below.
